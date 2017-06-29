@@ -1,0 +1,35 @@
+.jumbotron{
+    background-image: url("../img/jumbotron background.jpg");
+    margin-top: -1.1%;
+}
+
+
+.thumbnail {
+    border: none;
+    border-radius: 50%;
+    text-size: 20;
+}
+
+
+
+.logo {
+    font-size: 200px;
+}
+.col-sm-4 {
+    text-align: center;
+    margin: 25px 0;
+    font-size: 20px;
+}
+.col-sm-8{
+    font-size: 16px;
+    text-align: center;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
+
+
+
+
+
